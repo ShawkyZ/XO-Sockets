@@ -1,0 +1,13 @@
+C:\Users\Abdo\Desktop\x0x Client\XOX\bin\Debug\XOX.exe.config
+C:\Users\Abdo\Desktop\x0x Client\XOX\bin\Debug\XOX.exe.manifest
+C:\Users\Abdo\Desktop\x0x Client\XOX\bin\Debug\XOX.application
+C:\Users\Abdo\Desktop\x0x Client\XOX\bin\Debug\XOX.exe
+C:\Users\Abdo\Desktop\x0x Client\XOX\bin\Debug\XOX.pdb
+C:\Users\Abdo\Desktop\x0x Client\XOX\obj\Debug\XOClient.csprojResolveAssemblyReference.cache
+C:\Users\Abdo\Desktop\x0x Client\XOX\obj\Debug\Tic_Tac_Toe.frmTicTacToe.resources
+C:\Users\Abdo\Desktop\x0x Client\XOX\obj\Debug\XOX.Properties.Resources.resources
+C:\Users\Abdo\Desktop\x0x Client\XOX\obj\Debug\XOClient.csproj.GenerateResource.Cache
+C:\Users\Abdo\Desktop\x0x Client\XOX\obj\Debug\XOX.exe.manifest
+C:\Users\Abdo\Desktop\x0x Client\XOX\obj\Debug\XOX.application
+C:\Users\Abdo\Desktop\x0x Client\XOX\obj\Debug\XOX.exe
+C:\Users\Abdo\Desktop\x0x Client\XOX\obj\Debug\XOX.pdb
